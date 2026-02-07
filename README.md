@@ -74,7 +74,7 @@ This project focuses on turning raw data into actionable insights for business d
 
 ## 📸 Dashboard Preview
 
-![Techno Sales Dashboard]([dashboard-preview.png](https://github.com/Khushi-yadav8757/TECHNO-SALES-PERFORMANCE-DASHBOARD/blob/main/Screenshot%202026-02-07%20102403.png))
+![Techno Sales Dashboard](https://github.com/Khushi-yadav8757/TECHNO-SALES-PERFORMANCE-DASHBOARD/blob/main/Screenshot%202026-02-07%20102403.png))
 
 ---
 
