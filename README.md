@@ -76,7 +76,7 @@ This project helped me:
 ---
 
 ## 📸 Dashboard Preview
-(Add your dashboard screenshot here)
+(https://github.com/Khushi-yadav8757/TECHNO-SALES-PERFORMANCE-DASHBOARD/blob/main/Screenshot%202026-02-07%20102403.png)
 
 ---
 
