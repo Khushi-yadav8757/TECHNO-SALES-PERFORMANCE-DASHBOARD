@@ -4,6 +4,9 @@
 
 The dashboard helps understand revenue trends, profit performance, brand contribution, category performance, and order status using interactive visualizations.
 
+## 📸 Dashboard Preview
+
+![Techno Sales Dashboard](https://github.com/Khushi-yadav8757/TECHNO-SALES-PERFORMANCE-DASHBOARD/blob/main/Screenshot%202026-02-07%20102403.png)
 ---
 
 ## 🧾 Project Overview
@@ -72,9 +75,6 @@ This project focuses on turning raw data into actionable insights for business d
 
 ---
 
-## 📸 Dashboard Preview
-
-![Techno Sales Dashboard](https://github.com/Khushi-yadav8757/TECHNO-SALES-PERFORMANCE-DASHBOARD/blob/main/Screenshot%202026-02-07%20102403.png))
 
 ---
 
