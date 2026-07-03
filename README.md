@@ -3,7 +3,7 @@
 🚀 This project is a Power BI dashboard developed as part of my **Hunar Internship Assignment** to analyze techno retail sales data and generate meaningful business insights.
 
 The dashboard helps understand revenue trends, profit performance, brand contribution, category performance, and order status using interactive visualizations.
-
+ 
 ## 📸 Dashboard Preview
 
 ![Techno Sales Dashboard](https://github.com/Khushi-yadav8757/TECHNO-SALES-PERFORMANCE-DASHBOARD/blob/main/Screenshot%202026-02-07%20102403.png)
